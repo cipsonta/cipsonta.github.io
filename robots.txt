@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cipsonta.github.io/sitemap.html.gz
+Sitemap: https://cipsonta.github.io/app/sitemap.html.gz
+Sitemap: https://cipsonta.github.io/assets/sitemap.html.gz
+Sitemap: https://cipsonta.github.io/css/sitemap.html.gz
+Sitemap: https://cipsonta.github.io/data/sitemap.html.gz
+Sitemap: https://cipsonta.github.io/includes/sitemap.html.gz
+Sitemap: https://cipsonta.github.io/item/sitemap.html.gz
+Sitemap: https://cipsonta.github.io/src/sitemap.html.gz
